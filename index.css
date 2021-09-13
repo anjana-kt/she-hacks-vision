@@ -41,7 +41,9 @@ img{
     background-color: #eb9be1;
 }
 #main{
+    clear:both;
     display: flex;
     justify-content: space-evely;
+	
   
 }
