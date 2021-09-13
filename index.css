@@ -6,7 +6,7 @@ h1{
     text-align: center;
 }
 h2{
-    font-size:130%;
+    font-size:110%;
     color:#40060f;
 }
 h3{
@@ -25,8 +25,8 @@ body{
 }
 img{
     border-radius: 50%;
-    width: 50%;
-    height: 50%;
+    width: 30%;
+    height: 30%;
     display: block;
     margin: auto;
     margin-bottom: 2%;
@@ -41,9 +41,8 @@ img{
     background-color: #eb9be1;
 }
 #main{
-    clear:both;
+    clear: both;
     display: flex;
-    justify-content: space-evely;
-	
-  
+    margin: auto;
+    justify-content: space-evenly;
 }
