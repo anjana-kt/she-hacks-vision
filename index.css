@@ -1,12 +1,21 @@
 h1{
 	font-variant: all-petite-caps;
 	font-size:200%;
-	color:#000000;
+	color: beige;
     font-weight: bold;
     text-align: center;
 }
+h2{
+    font-size:130%;
+}
+h3{
+    font-size:100%;
+}
+p{
+    font: Courier New, monospace;
+}
 body{
-    background-color: #ffe6ff;
+    background-color: #8f044e;
 }
 img{
     border-radius: 50%;
@@ -23,5 +32,5 @@ div{
     box-shadow: 4px 4px 25px #000;
     padding: 0 2% 0 2%;
     justify-content: space-between;
-    background-color: beige;
+    background-color: #ad7b96;
 }
